@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Julián Abaroa - Portfolio</title>
+    <link>http://localhost:1313/Portfolio/blogs/</link>
+    <description>Recent content in Blogs on Julián Abaroa - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Project</title>
+      <link>http://localhost:1313/Portfolio/blogs/ajolote-al-camote/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/blogs/ajolote-al-camote/</guid>
+      <description>&lt;h2 id=&#34;ajolote-al-camote&#34;&gt;Ajolote al Camote&lt;/h2&gt;&#xA;&lt;p&gt;This project, originally developed in mid-2023 for the Level Design Workshop II, where I was responsible for programming, was revisited and its source code completely remade. The initial review revealed the need for an almost complete reconstruction, retaining only some basic logic. This included restructuring the levels and their organization within Unity.&lt;/p&gt;&#xA;&lt;p&gt;The process of remaking the project involved several key stages. Initially, the scripts were reorganized, implementing naming conventions and structure to improve readability and maintainability. Classes were refactored, optimizing the logic and interconnections between them. An important point was the unification of the obstacle movement logic into a generic script (&amp;lsquo;GenericMovement&amp;rsquo;), replacing multiple redundant scripts. The handling of horizontal and vertical movement was improved, especially the vertical movement, where a system based on manipulating the Rigidbody&amp;rsquo;s gravity was implemented, inspired by the work of &lt;a href=&#34;https://sara01-s.github.io/Portfolio/&#34; target=&#34;_blank&#34;&gt;Sara01&lt;/a&gt;, resulting in a smoother and more natural movement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personal Project</title>
+      <link>http://localhost:1313/Portfolio/blogs/asteroids-recreation/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/blogs/asteroids-recreation/</guid>
+      <description>&lt;h2 id=&#34;asteroids-recreation&#34;&gt;Asteroids Recreation&lt;/h2&gt;&#xA;&lt;p&gt;This project, started in may of 2024, aimed to recreate the classic video game Asteroids in Unity, striving for maximum fidelity for learning purposes. I developed all aspects of the game, with the exception of the input system (GameInput), for which I received help from &lt;a href=&#34;https://sara01-s.github.io/Portfolio/&#34; target=&#34;_blank&#34;&gt;Sara01&lt;/a&gt;. During development, I dedicated myself to thoroughly testing the original game, researching solutions to emerging problems, learning new Unity functionalities, and much more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thesis</title>
+      <link>http://localhost:1313/Portfolio/blogs/simple-motions/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/blogs/simple-motions/</guid>
+      <description>&lt;h2 id=&#34;simple-motions&#34;&gt;Simple Motions&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
