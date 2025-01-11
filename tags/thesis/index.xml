@@ -13,7 +13,7 @@
       <link>https://julianabaroa.github.io/Portfolio/blogs/simple-motions/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://julianabaroa.github.io/Portfolio/blogs/simple-motions/</guid>
-      <description>&lt;h2 id=&#34;simple-motions&#34;&gt;Simple Motions&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;simple-motions&#34;&gt;Simple Motions&lt;/h2&gt;&#xA;&lt;p&gt;Simple Motions is a motion graphics animator that uses linear interpolations over time to transition between predefined values such as positions, scales, rotations, and colors. It also supports importing images into the animation and exporting the final animations in MP4 format.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;timeline&#34;&gt;Timeline:&lt;/h4&gt;&#xA;&lt;p&gt;This section lets users navigate through all the frames of the animation. Specific frames can be selected using the cursor, making it easy to manage and edit animations frame by frame.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
