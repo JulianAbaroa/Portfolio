@@ -1,0 +1,35 @@
+section: 
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: false
+
+designation: "C++ Developer and Reverse Engineer."
+
+summary: >
+  I am a C++ developer focused on systems programming, with experience 
+  building mods for "Halo: The Master Chief Collection", specifically Halo Reach. 
+  These mods are primarily based on DLL proxy inyection, function hooking via 
+  MinHook, and reverse engineering using Cheat Engine, x64dbg and Ghidra. I've also 
+  worked on gametyping with ReachVariantTool, a tool that uses a very similar 
+  language to Megalo, which allows to create custom gametypes for Halo Reach that
+  are compatible with consoles. Previously, I worked with C# and Unity while 
+  studying video game design at Instituto Profesional Arcos.
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "julian.abaroa.c@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/JulianAbaroa"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/juli%C3%A1n-abaroa-casas-cordero-028216258/"
+
+resourceLinks:
+- title: "Resume"
+  url: "/files/resume.pdf"

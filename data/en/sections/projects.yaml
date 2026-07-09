@@ -1,0 +1,37 @@
+section: 
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+projects:
+  - name: Artemis-MCC
+    logo: 
+    role: Author
+    timeline: "Apr 2026 - Present"
+    repo: https://github.com/JulianAbaroa/Artemis-MCC
+    summary: >
+      Artemis-MCC aims to train an AI agent for combat in Halo Reach (MCC).
+      However, the  bulk of the project is the extraction, reinterpretation, 
+      and delivery of real-time game data: from reading object and player
+      tables, through semantic reconstruction of that raw data, to producing
+      a custom tick containing everything relevant for AI training.
+    tags:
+      - C++23
+      - Reverse Engineering
+  - name: AutoTheater-MCC 
+    logo:
+    role: Author
+    timeline: "Oct 2025 - Apr 2026"
+    repo: https://github.com/JulianAbaroa/AutoTheater-MCC
+    summary: >
+      AutoTheater-MCC automates camera direction in Halo Reach (MCC)'s Theater
+      mode, aiming to always show the most interesting action happening at any
+      given moment during a match replay. It also includes a replay file manager
+      for saving and loading replays across all Halo: The Master Chief Collection
+      titles, plus a built-in recording system using FFmpeg.
+    tags:
+      - C++23
+      - Reverse Engineering
+      

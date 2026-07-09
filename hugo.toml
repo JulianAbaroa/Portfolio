@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Julián Abaroa - Portfolio'
+theme = 'toha'
+
+[params]
+	background = "images/background.jpg"
+
+[params.newsletter]
+	enable = false
+
+[params.footer.credentials]
+	enable = false

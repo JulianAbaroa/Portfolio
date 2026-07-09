@@ -1,0 +1,22 @@
+section: 
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: Arcadius Entertainment
+      location: Hybrid
+      overview: I completed my internship at Arcadius, starting as a game
+        mechanics programmer using Blueprints in Unreal Engine. Later, I
+        transitioned into a technical designer role, focusing on documenting
+        game mechanics.
+    positions:
+      - designation: Technical Designer
+        start: January 2023
+        end: March 2023
+      - designation: Mechanics Programmer
+        start: November 2022
+        end: December 2023

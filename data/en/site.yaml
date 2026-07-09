@@ -1,0 +1,10 @@
+copyright: "© 2026 Copyright"
+
+description: "Portfolio and Personal Blog of Julian Abaroa."
+
+# Broken
+customMenus:
+- name: Posts
+  url: 
+  hideFromNavBar: true
+  showOnFooter: false

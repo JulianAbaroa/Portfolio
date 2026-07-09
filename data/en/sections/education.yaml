@@ -1,0 +1,14 @@
+section: 
+  name: Education
+  id: education
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+degrees:
+- name: Video Game Designer
+  timeframe: 2021-2025
+  institution: 
+    name: Insituto Profesional Arcos
+    url: https://www.arcos.cl/
+    logo: "images/logo_arcos.png"
